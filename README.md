@@ -8,7 +8,7 @@
 3. When I visit the shortened URL, it will redirect me to my original link.
 
 
-#### Creation Example:
+#### Creation Examples:
 
 POST [project_url]/api/shorturl/new - body (urlencoded) :  url=https://www.google.com
 
